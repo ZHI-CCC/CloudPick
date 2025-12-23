@@ -15,20 +15,20 @@ CloudPick 核心版本：
 Java 版本（服务端/客户端）：
 
 客户端加载器 (请在对应的括号内打Y)：
-( ) Fabric
-( ) Forge
-( ) NeoForge
-( ) Quilt
-( ) 其他：
+() Fabric
+() Forge
+() NeoForge
+() Quilt
+() 其他：
 加载器具体版本：
 操作系统 (Windows/Linux/macOS)：
 
-服务端类型 (请在对应的括号内打X)：
-( ) Paper
-( ) Spigot
-( ) Purpur
-( ) Mohist
-( ) 其他 Bukkit 分支：
+服务端类型 (请在对应的括号内打Y)：
+() Paper
+() Spigot
+() Purpur
+() Mohist
+() 其他 Bukkit 分支：
 服务器版本/核心号：
 
 三，我们该如何复现你遇到的bug
